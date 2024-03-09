@@ -1,4 +1,5 @@
 Proyecto de logueo para la autentificación de usuario y contraseña,
+
 ![image](https://github.com/GiulianoNC/loginJPA/assets/70980712/971c7217-8f7c-44ad-9605-983fe68b6ce3)
 
 a traves de JPA y conectado a una base de datos PHP admin wampserver
