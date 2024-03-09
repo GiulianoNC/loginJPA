@@ -1,0 +1,14 @@
+com\gcapovilla\login\Login.class
+igu\Pantalla$4.class
+logica\Usuario.class
+igu\Pantalla.class
+igu\Pantalla$1.class
+logica\Controladora.class
+logica\Usuario_.class
+igu\Pantalla$2.class
+persistencia\UsuarioJpaController.class
+igu\Pantalla$3.class
+persistencia\exceptions\NonexistentEntityException.class
+persistencia\exceptions\PreexistingEntityException.class
+persistencia\ControladoraPersistencia.class
+persistencia\exceptions\IllegalOrphanException.class
